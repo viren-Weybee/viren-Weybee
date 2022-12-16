@@ -1,0 +1,21 @@
+.nav-bar {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+    background-color: whitesmoke;
+    color: black;
+    height: 10vh;
+    border-bottom: 1px solid black;
+}
+
+.nav-bar-list {
+    display: flex;
+    gap: 10px 10px;
+    list-style: none;
+    margin: 0 0;
+    padding: 0 0;
+}
+
+.nav-bar-list-item {
+    a {
+        color: white;
+    }
+}
