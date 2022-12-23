@@ -23,5 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 Form.jsx
-
-src/Modules/CreateFrom/Form.jsx
